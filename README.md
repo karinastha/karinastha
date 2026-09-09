@@ -7,8 +7,6 @@ I'm a **Data Engineer** who enjoys building reliable data pipelines, ETL workflo
 - 🔭 Currently working on data pipelines & ETL systems
 - 🌱 Learning Generative AI, LLMs & data engineering best practices
 - 🐛 90% debugging, 10% coding, 100% Googling the same error twice
-- 📫 Reach me at: www.karinastha.com.np
-- 💼 LinkedIn: [in/karina-shrestha](https://www.linkedin.com/in/karina-shrestha)
 
 ## 🛠️ Tech Stack
 
