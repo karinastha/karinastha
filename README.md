@@ -1,5 +1,7 @@
 # Hi there, I'm Karina 👋
 
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" align="right" alt="coding animation" />
+
 I'm a **Data Engineer** who enjoys building reliable data pipelines, ETL workflows, and exploring GenAI/LLM applications.
 
 - 🔭 Currently working on data pipelines & ETL systems
@@ -17,15 +19,6 @@ I'm a **Data Engineer** who enjoys building reliable data pipelines, ETL workflo
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-## 📌 Featured Projects
+## � GitHub Stats
 
-- [data_engineering_interview_prep_chatbot](https://github.com/karinastha/data_engineering_interview_prep_chatbot) — Interview prep chatbot
-- [api-ecommerce-dbt](https://github.com/karinastha/api-ecommerce-dbt) — ELT e-commerce data pipeline using dbt
-- [gen-ai-langchain](https://github.com/karinastha/gen-ai-langchain) — LLMs, prompt engineering, RAG & embeddings
-- [customer-churn-prediction](https://github.com/karinastha/customer-churn-prediction) — Customer churn prediction with ML
-- [employee_timesheet_etl](https://github.com/karinastha/employee_timesheet_etl) — ETL pipeline for employee timesheet data
-- [reddit-sentiment-analysis](https://github.com/karinastha/reddit-sentiment-analysis) — Sentiment analysis on Reddit data
-
-## 📊 GitHub Stats
-
-![Karina's GitHub stats](https://github-readme-stats.vercel.app/api?username=karinastha&show_icons=true&theme=default)
+![Karina's GitHub stats](https://github-readme-stats.vercel.app/api?username=karinastha&show_icons=true&theme=default&cache_seconds=86400)
